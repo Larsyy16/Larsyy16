@@ -2,7 +2,7 @@
 Web developer with experience in various javascript technologies. 
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lars-kolankiewicz-73b36527b) 
 
 # 💻 Tech Stack:
