@@ -6,26 +6,123 @@ Full Stack Developer with skills in various JavaScript technologies. 2024 goal i
 <a href="https://www.linkedin.com/in/lars-kolankiewicz-73b36527b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height=25></a> <a href="mailto:larskol@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" height=25></a>
 
 
-# 💻 Tech Stack:
-<div>
-    <table>
-        <tr>
-            <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code><br><strong>TypeScript</strong></td>
-            <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code><br><strong>React</strong></td>
-            <td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code><br><strong>Next.js</strong></td>
-            <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code><br><strong>Node.js</strong></td>
-            <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code><br><strong>Express</strong></td>
-            <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code><br><strong>mongoDB</strong></td>
-            <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code><br><strong>PostgreSQL</strong></td>
-            <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code><br><strong>Firebase</strong></td>
-        </tr>
-        <tr>
-            <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code><br><strong>Sass</strong></td>
-            <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code><br><strong>Bootstrap</strong></td>
-            <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code><br><strong>Tailwind CSS</strong></td>
-        </tr>
-    </table>
-</div>
+# 💻 Technologies:
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Next.js"
+      />
+      <br /><strong>Next.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="Sass"
+      />
+      <br /><strong>Sass</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="48"
+        height="48"
+        alt="Tailwind"
+      />
+      <br /><strong>Tailwind</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br /><strong>Firebase</strong>
+    </td>
+          <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        width="48"
+        height="48"
+        alt="AWS"
+      />
+      <br /><strong>AWS</strong>
+    </td>
+  </tr>
+</table>
+
 
 
 # 📊 GitHub Stats:
@@ -36,4 +133,3 @@ Full Stack Developer with skills in various JavaScript technologies. 2024 goal i
 ---
 [![](https://visitcount.itsvg.in/api?id=Larsyy16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
