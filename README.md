@@ -48,7 +48,7 @@ Full Stack Developer with skills in various JavaScript technologies. 2024 goal i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"
         width="48"
         height="48"
         alt="Tailwind"
@@ -113,7 +113,7 @@ Full Stack Developer with skills in various JavaScript technologies. 2024 goal i
     </td>
           <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"
         width="48"
         height="48"
         alt="AWS"
