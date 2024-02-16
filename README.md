@@ -57,7 +57,7 @@ Full Stack Developer with skills in various JavaScript technologies. 2024 goal i
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"
         width="48"
         height="48"
         alt="Bootstrap"
