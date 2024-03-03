@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer with skills in various JavaScript technologies. 2024 goal is to contribute to open-source more and continue to learn more about everything web development-related.
+Web Developer with skills in various JavaScript technologies. 2024 goal is to contribute to open-source more and continue to learn more about everything web development-related.
 
 
 ## 🌐 Social:
